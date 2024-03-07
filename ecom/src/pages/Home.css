@@ -1,0 +1,35 @@
+.home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.categories-container {
+  margin-bottom: 40px;
+}
+
+.category-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.category-list li {
+  margin-bottom: 10px;
+}
+
+.checkout-link {
+  margin-top: 20px;
+}
+
+.checkout-btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.checkout-btn:hover {
+  background-color: #0056b3;
+}
